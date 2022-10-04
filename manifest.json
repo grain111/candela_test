@@ -1,0 +1,7 @@
+{
+    "domain": "candela_test",
+    "name": "Yeelight Candela Lamp",
+    "requiremets": ["bleak"],
+    "iot_class": "assumed_state",
+    "version": "0.0.1"
+}
